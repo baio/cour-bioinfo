@@ -1,0 +1,6 @@
+C:\dev\coursera\cour-bioinformatics\assign1\bin\Debug\assign1.exe.config
+C:\dev\coursera\cour-bioinformatics\assign1\bin\Debug\assign1.exe
+C:\dev\coursera\cour-bioinformatics\assign1\bin\Debug\assign1.pdb
+C:\dev\coursera\cour-bioinformatics\assign1\obj\Debug\assign1.csprojResolveAssemblyReference.cache
+C:\dev\coursera\cour-bioinformatics\assign1\obj\Debug\assign1.exe
+C:\dev\coursera\cour-bioinformatics\assign1\obj\Debug\assign1.pdb

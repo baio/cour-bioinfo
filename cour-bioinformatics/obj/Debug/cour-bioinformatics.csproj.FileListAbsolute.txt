@@ -1,0 +1,6 @@
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\bin\Debug\cour-bioinformatics.exe.config
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\bin\Debug\cour-bioinformatics.exe
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\bin\Debug\cour-bioinformatics.pdb
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\obj\Debug\cour-bioinformatics.csprojResolveAssemblyReference.cache
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\obj\Debug\cour-bioinformatics.exe
+C:\dev\coursera\cour-bioinformatics\cour-bioinformatics\obj\Debug\cour-bioinformatics.pdb
