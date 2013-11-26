@@ -1,0 +1,5 @@
+C:\dev\coursera\cour-bioinformatics\Utils\bin\Debug\Utils.dll
+C:\dev\coursera\cour-bioinformatics\Utils\bin\Debug\Utils.pdb
+C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.dll
+C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.pdb
+C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿M Met
+H His
+Q Gln
+P Pro
+R Arg
+L Leu
+D Asp
+E Glu
+A Ala
+G Gly
+V Val
+Y Tyr
+* XXX
+S Ser
+C Cys
+W Trp
+F Phe
+L Leu
+N Asn
+K Lys
+T Thr
+S Ser
+R Arg
+I Ile
+
