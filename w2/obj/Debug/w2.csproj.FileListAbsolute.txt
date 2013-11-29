@@ -9,3 +9,14 @@ C:\dev\coursera\cour-bioinformatics\w2\obj\Debug\w2.csproj.GenerateResource.Cach
 C:\dev\coursera\cour-bioinformatics\w2\obj\Debug\w2.g.resources
 C:\dev\coursera\cour-bioinformatics\w2\bin\Debug\Utils.dll
 C:\dev\coursera\cour-bioinformatics\w2\bin\Debug\Utils.pdb
+C:\dev\cour\cour-bioinfo\w2\bin\Debug\w2.exe.config
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.exe
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.pdb
+C:\dev\cour\cour-bioinfo\w2\bin\Debug\w2.exe
+C:\dev\cour\cour-bioinfo\w2\bin\Debug\w2.pdb
+C:\dev\cour\cour-bioinfo\w2\bin\Debug\Utils.dll
+C:\dev\cour\cour-bioinfo\w2\bin\Debug\Utils.pdb
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.csprojResolveAssemblyReference.cache
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.g.resources
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.Properties.Resources.resources
+C:\dev\cour\cour-bioinfo\w2\obj\Debug\w2.csproj.GenerateResource.Cache

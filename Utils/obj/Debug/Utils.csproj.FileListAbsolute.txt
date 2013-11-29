@@ -3,3 +3,8 @@ C:\dev\coursera\cour-bioinformatics\Utils\bin\Debug\Utils.pdb
 C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.dll
 C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.pdb
 C:\dev\coursera\cour-bioinformatics\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\dev\cour\cour-bioinfo\Utils\bin\Debug\Utils.dll
+C:\dev\cour\cour-bioinfo\Utils\bin\Debug\Utils.pdb
+C:\dev\cour\cour-bioinfo\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\dev\cour\cour-bioinfo\Utils\obj\Debug\Utils.dll
+C:\dev\cour\cour-bioinfo\Utils\obj\Debug\Utils.pdb

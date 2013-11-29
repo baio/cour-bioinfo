@@ -52,17 +52,21 @@ namespace w2
 
                 foreach (var peptide in arr)
                 {
-                    if (peptide.Sum() == maxSpectrum)
+                    var sum = peptide.Sum();
+                    
+                    if (sum == maxSpectrum)
                     {
                         res.Add(peptide);
 
                         l.Remove(peptide);
                     }
-                    else if (Inconsistent(peptide, spectrum))
+                    else if (sum > maxSpectrum || !spectrum.Contains(sum))
                     {
                         l.Remove(peptide);
                     }
                 }
+
+                System.Console.Write("\r\n********\r\n");
 
                 l = l.Distinct(new ArrayComparer()).ToList();
             }
@@ -72,6 +76,12 @@ namespace w2
 
         public static bool Inconsistent(int [] Peptide, int [] Spectrum)
         {
+            var s = Peptide.Sum();
+
+            if (!Spectrum.Contains(s))
+                return true;
+
+            /*
             for (var i = 0; i < Peptide.Length; i++ )
             {
                 //each and every subpep must exists in spectrum
@@ -80,6 +90,7 @@ namespace w2
                 if (!Spectrum.Contains(s))
                     return true;
             }
+             */
 
             return false;
         }
